@@ -1,5 +1,5 @@
 # RSGaussian
 3D Gaussian Splatting with LiDAR for  Aerial Remote Sensing Novel View Synthesis
 ![image](https://github.com/WHURume00/RSGaussian/blob/main/6.PNG)
-![image](https://github.com/WHURume00/RSGaussian/blob/main/Video_24040212404520241225166392202412251646363.gif)
+https://github.com/user-attachments/assets/db8e36c3-07bf-4752-9391-28c30404aacf
 # Coming soon!
